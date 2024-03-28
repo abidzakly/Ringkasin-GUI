@@ -1,5 +1,5 @@
 # Ringkasin (Java Version)
-Ringkasin is a Book Summary App where User can both reads and make a summary of any books made with Java Native. It was made for my 3rd semester final project assignment.
+This app is a Desktop Version of Ringkasin(Book Summary App) on my other repositories where User can both reads and make a summary of any books made with Java Native. It was made for my 3rd semester final project assignment.
 
 ## App Description
 The idea of this app was meant to bridge the gap for users that find a book intriguing but struggle to grasp its full meaning and/or short on time to read a 100-pages book.

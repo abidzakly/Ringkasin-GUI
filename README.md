@@ -17,6 +17,7 @@ The idea of this app was meant to bridge the gap for users that find a book intr
 ## Additional Notes
 - To get your summaries to be shown on the list, you have to wait for admin approval
 - DB is located in src -> db
-### Admin Cred:
+
+## Admin Cred:
 - Username: Admin
 - Password: admin123
